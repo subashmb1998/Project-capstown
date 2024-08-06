@@ -1,6 +1,6 @@
 # Project Explanation: Implementing Unity Catalog for Data Governance
 ## Project Overview:
-This project focuses on implementing Unity Catalog, a unified governance solution for data assets in a Lakehouse environment. The main objective is to establish centralized data governance to ensure data security and manage data access policies efficiently. Unity Catalog provides a centralized metadata layer, a security model based on ANSI SQL, built-in auditing, Delta Sharing, data lineage, and data discovery capabilities. 
+In this project, I developed a robust data pipeline using Azure Data Factory to ensure data integrity and efficient handling of datasets. By integrating ADLS GEN2, Databricks, Key Vault, Azure SQL Database, and GitHub, I automated data retrieval and execution, reducing manual effort. Secure password management with Azure Key Vault enhanced data protection, while complex data transformations in Databricks improved data handling efficiency. Additionally, I boosted data retrieval speed and increased operational efficiency through automated pipeline triggers in Azure Data Factory. The system tracked customer orders, demonstrating scalability and reliability.
 
 #### Key Features of Unity Catalog:
 #### 1. Centralized Metadata Layer:
